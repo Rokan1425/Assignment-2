@@ -77,3 +77,86 @@
     font-weight: 500;
     line-height: normal;
 }
+
+.header-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url(Group\ 14.png);
+
+}
+
+.header-play {
+    color: #0B0223;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.header-goat {
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 95px;
+    font-style: normal;
+    font-weight: 800;
+    text-transform: uppercase;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: -30px;
+
+}
+
+.header-instant-play {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.header-no-download {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.header-online-games {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.header-iteam {
+    margin-top: -40px;
+    line-height: 50%;
+}
+
+.header-button-iteam {
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+
+.sign-in {
+    border: none;
+    background-color: ;
+    background: var(--Linear, linear-gradient(90deg, #FF42A5 13.13%, #FF42A5 87.94%));
+    padding: 21px 40px;
+    border-radius: 20px;
+    color: white;
+    font-size: 17px;
+
+}
+
+.go-rogue {
+    border: none;
+    border-radius: 48px;
+    background: #4EC5F7;
+    padding: 21px 40px;
+    color: white;
+    font-size: 17px;
+
+}
