@@ -1,0 +1,259 @@
+@media screen and (max-width: 375px) {
+    .nav-container{
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .nav-2nd-part {
+        flex-direction: column;
+    }
+    .header-container{
+        flex-direction: column;
+        flex-direction: column-reverse;
+    }
+    .header-container img{
+        width: 100%;
+    }
+    .banner-section{
+        flex-direction: column;
+    }
+    .banner-section img {
+        width: 100%;
+
+    }
+    .banner-section-description{
+        text-align: center;
+    }
+    .banner-section-details{
+        text-align: center;
+    }
+   .banner-our-purpose{
+    text-align: center;
+   }
+   .banner-section-unleas{
+    text-align: center;
+    font-size: 20px;
+   }
+   .section-2-title1{
+    text-align: center;
+    font-size: 20px;
+   }
+   .section-2-funny{
+    text-align: center;
+    font-size: 23px;
+   }
+   .section-2-img-container{
+    flex-direction: column;
+   }
+   .section-2-img-para{
+    display: inline;
+    
+   }
+   .section-3-container{
+    flex-direction: column;
+   }
+   .section-3-title{
+    text-align: center;
+   }
+   .section-3-paragra{
+    text-align: center;
+   }
+   .section-3-container .img-11 {
+    width: 100%;
+   }
+   .section-3-img-1 {
+    margin-left: 1px;
+    margin-top: -250px;
+    width: 50%;
+   }
+   .section-4-container{
+    flex-direction: column;
+    flex-direction: column-reverse;
+   }
+   .section-4-title{
+    text-align: center;
+   }
+   .section-4-paragraph{
+    text-align: center;
+   }
+   .section-4-container .section-4-img-2{
+    width: 100%;
+    margin-top: -200px;
+    margin-bottom: 50px;
+   }
+   .section-4-img-1 {
+    width: 200px;  
+    margin-top: 10px;
+    margin-left: -200px;
+}
+.section-5-container{
+flex-direction: column;
+}
+.section-5-title{
+    text-align: center;
+}
+.section-5-para {
+    text-align: center;
+    font-size: 15px;
+}
+.section-5-sent {
+    text-align: center;
+    font-size: 15px;
+}
+.section-5-container img{
+    width: 100%;
+}
+.section-6 {
+flex-direction: column;
+
+}
+.section-6-1{
+    flex-direction: column;
+}
+.section-6-another{
+    flex-direction: column;
+}
+.footer-1{
+    flex-direction: column;
+}
+.footer-2{
+    flex-direction: column;
+}
+.footer-des{
+    flex-direction: column;
+}
+
+}  
+
+@media screen and (min-width: 375px) and (max-width: 800px) {
+    
+        .nav-container{
+            flex-direction: column;
+            justify-content: center;
+        }
+    
+        .nav-2nd-part {
+            flex-direction: column;
+        }
+        .header-container{
+            flex-direction: column;
+            flex-direction: column-reverse;
+        }
+        .header-container img{
+            width: 100%;
+        }
+        .banner-section{
+            flex-direction: column;
+        }
+        .banner-section img {
+            width: 100%;
+    
+        }
+        .banner-section-description{
+            text-align: center;
+        }
+        .banner-section-details{
+            text-align: center;
+        }
+       .banner-our-purpose{
+        text-align: center;
+       }
+       .banner-section-unleas{
+        text-align: center;
+        font-size: 20px;
+       }
+       .section-2-title1{
+        text-align: center;
+        font-size: 20px;
+       }
+       .section-2-funny{
+        text-align: center;
+        font-size: 23px;
+       }
+       .section-2-img-container{
+        flex-direction: column;
+       }
+       .section-2-img-para{
+        display: inline;
+        
+       }
+       .section-3-container{
+        flex-direction: column;
+       }
+       .section-3-title{
+        text-align: center;
+       }
+       .section-3-paragra{
+        text-align: center;
+       }
+       .section-3-container .img-11 {
+        width: 100%;
+       }
+       .section-3-img-1 {
+        margin-left: 1px;
+        margin-top: -250px;
+        width: 50%;
+       }
+       .section-4-container{
+        flex-direction: column;
+        flex-direction: column-reverse;
+       }
+       .section-4-title{
+        text-align: center;
+       }
+       .section-4-paragraph{
+        text-align: center;
+       }
+       .section-4-container .section-4-img-2{
+        width: 100%;
+        margin-top: -200px;
+        margin-bottom: 50px;
+       }
+       .section-4-img-1 {
+        width: 200px;  
+        margin-top: 10px;
+        margin-left: -200px;
+    }
+    .section-5-container{
+    flex-direction: column;
+    }
+    .section-5-title{
+        text-align: center;
+    }
+    .section-5-para {
+        text-align: center;
+        font-size: 15px;
+    }
+    .section-5-sent {
+        text-align: center;
+        font-size: 15px;
+    }
+    .section-5-container img{
+        width: 100%;
+    }
+    .section-6 {
+    flex-direction: column;
+    
+    }
+    .section-6-1{
+        flex-direction: column;
+    }
+    .section-6-another{
+        flex-direction: column;
+    }
+    .footer-1{
+        flex-direction: column;
+    }
+    .footer-2{
+        flex-direction: column;
+    }
+    .footer-des{
+        flex-direction: column;
+    }
+    
+    }  
+    
+    
+    
+}
+

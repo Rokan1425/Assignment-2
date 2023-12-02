@@ -273,7 +273,7 @@
 
 .section-2-img-text-content {
     position: relative;
-    
+
 
 }
 
@@ -283,7 +283,8 @@
     left: 45%;
     display: none;
 }
-.section-2-img-text-content:hover .watch-play-icon{
+
+.section-2-img-text-content:hover .watch-play-icon {
     display: block;
 }
 
@@ -303,11 +304,11 @@
 
 }
 
-.section-2-img-text-content:hover .watch-play-text{
+.section-2-img-text-content:hover .watch-play-text {
     display: block;
 }
 
-.img-for-section-2:hover{
+.img-for-section-2:hover {
     filter: brightness(0.5);
 }
 
@@ -597,3 +598,4 @@ footer {
     margin-top: -390px;
     cursor: pointer;
 }
+
